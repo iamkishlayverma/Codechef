@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470304226 source:c:\users\q\documents\packagingcupcakes\main.c
+	<stdio.h>
+	<stdlib.h>
+

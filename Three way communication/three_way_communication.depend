@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1470644345 source:c:\users\q\documents\three_way_communication\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

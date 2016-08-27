@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470852891 source:c:\users\q\documents\primality test\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471015243 source:c:\users\q\documents\sum of palindromic numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
