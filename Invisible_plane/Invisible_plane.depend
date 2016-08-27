@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457868888 source:c:\users\q\documents\hackerrank\invisible_plane\main.c
+	<stdio.h>
+	<stdlib.h>
+

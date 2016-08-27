@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1471363311 source:c:\users\q\documents\good joke\main.cpp
+	<iostream>
+
+1471366830 source:c:\users\q\documents\good joke\main.c
+	<stdio.h>
+	<stdlib.h>
+

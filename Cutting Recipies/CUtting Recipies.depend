@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470598058 source:c:\users\q\documents\cutting recipies\main.c
+	<stdio.h>
+	<stdlib.h>
+
