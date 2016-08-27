@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471961763 source:c:\users\q\documents\smart_phone\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+
