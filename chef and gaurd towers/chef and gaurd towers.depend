@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471027146 source:c:\users\q\documents\chef and gaurd towers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

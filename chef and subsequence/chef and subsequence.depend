@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472047976 source:c:\users\q\documents\chef and subsequence\main.c
+	<stdio.h>
+	<stdlib.h>
+

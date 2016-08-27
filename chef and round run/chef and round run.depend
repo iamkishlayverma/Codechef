@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470840211 source:c:\users\q\documents\chef and round run\main.c
+	<stdio.h>
+	<stdlib.h>
+

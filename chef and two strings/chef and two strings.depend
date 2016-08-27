@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471082916 source:c:\users\q\documents\chef and two strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

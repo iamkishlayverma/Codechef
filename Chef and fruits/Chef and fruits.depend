@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1471200224 source:c:\users\q\documents\chef and fruits\main.c
+	<stdio.h>
+	<stdlib.h>
+

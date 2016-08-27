@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1472028930 source:c:\users\q\documents\chef and his sequence\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471021862 source:c:\users\q\documents\chef and wildcard matching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
